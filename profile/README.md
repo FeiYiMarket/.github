@@ -5,7 +5,8 @@
 ### 电话：18818860582
 ### QQ：1398287531
 ### 经营范围：面料，辅料，烫银，烫金，数码印花等工艺
-![alt text](logo.jpg)
+![logo](./logo.jpg)
+
 <!--
 
 **Here are some ideas to get you started:**
