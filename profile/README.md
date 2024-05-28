@@ -1,6 +1,7 @@
 
 # 菲亿服装辅料行
 <img src="logo.jpg" width = 200 height = 200>
+<img src="microapp.jpg" width = 200 height = 200>
 
 ### 地址：广州市海珠区新港西路146号，顺华辅料城
 ### 联系人：刘丽梅
